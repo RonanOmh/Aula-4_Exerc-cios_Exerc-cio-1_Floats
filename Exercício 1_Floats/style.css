@@ -1,0 +1,37 @@
+html{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body{
+    margin: 0px;
+    padding: 0px;
+  }
+
+#caixa_1{
+    border-color: red;
+    border-style: solid;
+    height: 200px;
+    width: 400px;
+    float: left;
+}
+
+#caixa_2{
+    border: blue;
+    border-style: solid;
+    height: 200px;
+    width: 400px;
+    float: right;
+}
+
+#caixa_3{
+    border: palevioletred;
+    border-style: solid;
+    height: 200px;
+}
+
+#caixa_4{
+    border: green;
+    border-style: solid;
+    height: 200px;
+}
